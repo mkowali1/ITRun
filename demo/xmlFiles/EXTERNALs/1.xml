@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <email>updatedEmail</email>
+    <firstName>updatedFirstName</firstName>
+    <lastName>updatedLastName</lastName>
+    <mobile>updatedMobile</mobile>
+    <personId>1</personId>
+    <pesel>updatedPesel</pesel>
+    <type>EXTERNAL</type>
+</person>

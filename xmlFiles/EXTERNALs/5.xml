@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <email>zdzichu@gmail.com</email>
+    <firstName>Zdzislaw</firstName>
+    <lastName>zdziszek</lastName>
+    <mobile>612344456</mobile>
+    <personId>5</personId>
+    <pesel>032498509348</pesel>
+    <type>EXTERNAL</type>
+</person>
